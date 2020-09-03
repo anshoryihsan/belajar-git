@@ -1,0 +1,14 @@
+cara git push git lokal ke repo :
+file lokal harus membuat git dengan menulis (git init) pada git bash
+1. membuat repositori di github, dengan nama file yang sama dilokal.
+2. readme. jgn dicentang.
+3. di git bash copas tulis (git remote add origin https://github.com/anshoryihsan/belajar-git.git) sesuai repo.
+keterangan=ini digunakan untuk menambahkan serta mengkoneksikan file lokal dan repo digithub.
+-(git remote -v)
+--keterangan=ini digunakan untuk melihat remote file lokal ke github dengan push atau fetch.
+-(git branch -M master)
+--keterangan=ini digunakan untuk melihat branch master di repo yang sudah terhubung dengan lokal.
+***langkah tiga bisa dilihat pada langkah 2 ketika membuat repositori digithub.
+4.untuk push/upload file lokal ke gituhub tulis (git push) di git bash.
+
+seelanjutnya untuk add, commit, branch, marge lakukan seperti dasar2 github pada png.
